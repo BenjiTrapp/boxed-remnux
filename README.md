@@ -5,7 +5,7 @@ REMnux malware analysis toolkit in your browser — a Dockerized XFCE desktop wi
 Built on the official [`remnux/remnux-distro:noble`](https://hub.docker.com/r/remnux/remnux-distro) image with XFCE4, TigerVNC, and noVNC layered on top.
 
 <p align="center">
-<img height="200" src="static/demo.png">
+<img src="static/demo.png">
 <br>Boxed Kali in your Browser
 </p>
 
