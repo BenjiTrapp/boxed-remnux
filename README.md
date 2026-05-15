@@ -1,7 +1,6 @@
 <p align="center">
 
 <img height="200" src="static/logo.png">
-
 <br>Boxed REMnux in your Browser
 
 </p>
