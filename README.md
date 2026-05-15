@@ -1,4 +1,12 @@
-# Boxed REMnux
+<p align="center">
+
+<img height="200" src="static/logo.png">
+
+<br>Boxed REMnux in your Browser
+
+</p>
+
+
 
 REMnux malware analysis toolkit in your browser — a Dockerized XFCE desktop with noVNC access.
 
@@ -6,7 +14,6 @@ Built on the official [`remnux/remnux-distro:noble`](https://hub.docker.com/r/re
 
 <p align="center">
 <img src="static/demo.png">
-<br>Boxed Kali in your Browser
 </p>
 
 ## Prerequisites
